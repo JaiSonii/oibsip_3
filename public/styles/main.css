@@ -1,0 +1,47 @@
+
+
+.main-box{
+    height: 100vh;
+}
+form{
+    height: 50%
+}
+*{
+    box-sizing: border-box;
+    font-family: 'Playfair Display', serif;
+}
+.hot{
+    background-image: url("https://i.gifer.com/80aP.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+}
+form{
+    border: none;
+    
+    border-radius: 50px;
+    box-shadow: 20px 20px 50px 15px black;
+    backdrop-filter: blur(10px);
+}
+.all-box{
+    border: 2px solid black;
+    border-radius: 11px;
+
+}
+
+.cold{
+    background-image: url("https://i.gifer.com/z4Y.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.normal{
+    background-image: url("https://i.gifer.com/CZx.gif");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.heading{
+    font-size: 80px;
+    backdrop-filter: blur(10px);
+    border: none;
+    border-radius: 50%;
+}
